@@ -610,6 +610,10 @@ TOKENS = {
         "bsc": {
           "address": "0x0e28bC9B03971E95acF9ae1326E51ecF9C55B498",
           "decimals": 18
+        },
+        "avax": {
+          "address": "0xd44E4Dc8bdF7C1c62CfDBb182022097BA42Ac6bC",
+          "decimals": 18
         }
       },
       "sourceDecimals": 18
